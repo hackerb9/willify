@@ -1,8 +1,12 @@
 # Willify
-Given boring words, output exciting, George F. Will-quality words.
+Given boring words, output exciting, George F. Will-quality words. [*Granted ho-hum language, yield blue blood, George (atomic number 9) Will-calibre lyrics.*]
 
-*Granted ho-hum language, yield blue blood,
-George (atomic number 9) Will-calibre lyrics.*
+[George F. Will](https://www.washingtonpost.com/people/george-f-will/) is known for high-falutin words. Here's an actual example of his writing from an editorial he wrote in the [Washington Post](https://www.washingtonpost.com/opinions/what-the-freedom-caucus-stands-for/2017/04/12/7477a632-1ee8-11e7-a0a7-8b2a45e3dc84_story.html):
+
+  *With a mellifluous name suggesting bucolic tranquility, Rep. Mark Meadows, a North Carolina Republican, is an unlikely object of the caterwauling recently directed at him and the House Freedom Caucus he leads. The vituperation was occasioned by the HFC’s role rescuing Republicans from embracing an unpopular first draft of legislation to replace Obamacare.*
+
+Is he a human thesaurus or does he use a program like this? :-)
+
 
 ## Usage
 
