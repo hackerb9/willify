@@ -26,7 +26,7 @@ Original | Willified
 *Come down, Dick.*                | Enter downward, Private eye.
 *Come and see.*                   | Move along and back.
 *See the big, big mother.*        | Inspect the great, excellent agent.
-*See the funny litle baby.*       | Come to the jocose litle nestling.
+*See the funny little baby.*      | Come to the jocose exiguous nestling.
 *Puff is my baby.*                | Flatulency is my preemie.
 *Puff is my funny little baby.*   | Inhale is my fishy constricted mewling infant.
 *I see the big mother.*           | I establish the cloyed fuss.
