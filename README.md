@@ -19,6 +19,22 @@ Is he a human thesaurus or does he use a program like this? :-)
 
 You'll need python dictclient: `apt-get install python-dictclient`.
 
+## Example
+
+Original | Willified
+---------|----------
+Come down, Dick.                | Enter downward, Private eye.
+Come and see.                   | Move along and back.
+See the big, big mother.        | Inspect the great, excellent agent.
+See the funny litle baby.       | Come to the jocose litle nestling.
+Puff is my baby.                | Flatulency is my preemie.
+Puff is my funny little baby.   | Inhale is my fishy constricted mewling infant.
+I see the big mother.           | I establish the cloyed fuss.
+I see the little baby.          | I consider the immaterial honey.
+Look Jane.                      | Spot Jane.
+See the big father.             | Find out the exalted something.
+
+
 
 ## Optional
 
