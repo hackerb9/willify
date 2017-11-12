@@ -22,10 +22,10 @@ import sys
 from random import choice
 
 # If you have dictd installed on your localhost, use this:
-dictd = dictclient.Connection()
+#dictd = dictclient.Connection()
 
 # If you don't have dictd, you can try connecting to an online dictionary:
-#dictd = dictclient.Connection('dictd.org')
+dictd = dictclient.Connection('dict.org')
 
 
 def wnsyns(word):
